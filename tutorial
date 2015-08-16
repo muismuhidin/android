@@ -1,0 +1,21 @@
+$sudo apt-get install git
+$git config --global user.name "muismuhidin"
+$git config --global user.email "muismuhidin@gmail.com"
+
+$git status
+jika ada coment = "nothing to commit, working directory clean" maka
+coba gunakan coment dengan contoh bikin file index.html
+$git status
+$git commit -m "keterangan file yang di commit"
+
+
+$git add namafile yang ingin di commit
+$git commit -m "Cats"
+
+
+
+
+yangdilakukan
+cara melakukakn
+orangnya
+
